@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KrazyPing
-- 👀 I’m interested in eating Nopox
-- 🌱 I’m currently learning how to eat Nopox
-- 💞️ I’m looking to collaborate on eating Nopox Together
-- 📫 How to reach me find Nopox
+- 👋 Hi, I’m @Krazy
+- 👀 I’m interested in creating Minecraft plugins
+- 🌱 I’m currently learning Kotlin/Java
+- 💞️ I’m looking to collaborate on coding in Java
+- 📫 How to reach me find Krazy#3681
 
 <!---
 KrazyPing/KrazyPing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
